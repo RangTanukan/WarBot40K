@@ -1,0 +1,5 @@
+2024-11-09 14:30:19,383 - __main__ - INFO - Successfully connected to the database.
+2024-11-09 14:30:20,882 - __main__ - INFO - Message received: tell me about space marines!
+2024-11-09 14:30:21,582 - __main__ - INFO - No FAQ found for the question: tell me about space marines!
+2024-11-09 14:30:21,582 - __main__ - INFO - No answer found for the question: tell me about space marines!
+2024-11-09 14:31:57,731 - __main__ - INFO - Successfully connected to the database.
